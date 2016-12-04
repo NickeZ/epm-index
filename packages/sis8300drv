@@ -1,0 +1,9 @@
+{"name": "sis8300drv", "vers": "1.5.0", "compat": "minor", "deps": []}
+{"name": "sis8300drv", "vers": "1.5.1", "compat": "minor", "deps": []}
+{"name": "sis8300drv", "vers": "1.5.2", "compat": "minor", "deps": []}
+{"name": "sis8300drv", "vers": "1.5.3", "compat": "minor", "deps": []}
+{"name": "sis8300drv", "vers": "1.5.4", "compat": "minor", "deps": []}
+{"name": "sis8300drv", "vers": "1.5.5", "compat": "minor", "deps": []}
+{"name": "sis8300drv", "vers": "2.0.0", "compat": "minor", "deps": [{"name": "udev", "type": "system"}]}
+{"name": "sis8300drv", "vers": "2.0.1", "compat": "minor", "deps": [{"name": "udev", "type": "system"}]}
+{"name": "sis8300drv", "vers": "2.1.0", "compat": "minor", "deps": [{"name": "udev", "type": "system"}]}
